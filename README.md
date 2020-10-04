@@ -2,7 +2,20 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/divinosdev" target="_blank">
+[![image]][hyperlink]
+
+  [hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+  [image]: .assets/email.svg (Email)
+
+
+
+![image](.assets/linkedin.svg) &nbsp;&nbsp; ![image](.assets/email.svg)
+
+<a href="vivek99.work@gmail.com">
+  <img align="left" alt="Email" width="30px" src="./assets/email.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/divinosdev">
   <img align="left" alt="Divinos Dev Linkedin" width="30px" src="./assets/linkedin.svg">
 </a>
 
