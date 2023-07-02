@@ -1,4 +1,4 @@
-### Hi, I'm Vivek. I make games and stuff.
+### Hi, I'm Vivek. I make games.
 
 [negiyosai.com](https://negiyosai.com)
 
